@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "599529265462",
+    "firebase_url": "https://smarthome-a19f1.firebaseio.com",
+    "project_id": "smarthome-a19f1",
+    "storage_bucket": "smarthome-a19f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599529265462:android:467204c807dc9d58",
+        "android_client_info": {
+          "package_name": "com.example.brisingr.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599529265462-pf73p1v5sgt98hgmiop2c2d873qth12r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brisingr.smarthome",
+            "certificate_hash": "0684fb3e8997ee97e1e1edb7c2f461bf700cd74e"
+          }
+        },
+        {
+          "client_id": "599529265462-cnlcl0q5vg29ram62r0ma7r9n1fp9ffr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "599529265462-cnlcl0q5vg29ram62r0ma7r9n1fp9ffr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJtGr0G4xr5LHMFKSkP3zug_aW2WziC9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599529265462-cnlcl0q5vg29ram62r0ma7r9n1fp9ffr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599529265462:android:5eab8688e7deb5e4",
+        "android_client_info": {
+          "package_name": "com.example.kevinjacob.homeautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599529265462-sglkkgfid4kp9cjehusi2t8hbgcmu1ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kevinjacob.homeautomation",
+            "certificate_hash": "9283db9e7f0edbf91036fc9ea02c98ea8ff3d5d4"
+          }
+        },
+        {
+          "client_id": "599529265462-cnlcl0q5vg29ram62r0ma7r9n1fp9ffr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "599529265462-cnlcl0q5vg29ram62r0ma7r9n1fp9ffr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJtGr0G4xr5LHMFKSkP3zug_aW2WziC9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599529265462-cnlcl0q5vg29ram62r0ma7r9n1fp9ffr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599529265462:android:4d0025474a304bbc",
+        "android_client_info": {
+          "package_name": "com.example.kevinjacob.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599529265462-0dbqopulrjdd6nppmurgt7c4p14csi85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kevinjacob.smarthome",
+            "certificate_hash": "9283db9e7f0edbf91036fc9ea02c98ea8ff3d5d4"
+          }
+        },
+        {
+          "client_id": "599529265462-bfhfe20tcmhj8bdj2kb8deujpvuuo89t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kevinjacob.smarthome",
+            "certificate_hash": "c5ef1e555d97ea98d9f86343e67776e4dde3ebea"
+          }
+        },
+        {
+          "client_id": "599529265462-cnlcl0q5vg29ram62r0ma7r9n1fp9ffr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "599529265462-cnlcl0q5vg29ram62r0ma7r9n1fp9ffr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJtGr0G4xr5LHMFKSkP3zug_aW2WziC9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599529265462-cnlcl0q5vg29ram62r0ma7r9n1fp9ffr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
